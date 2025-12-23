@@ -1,0 +1,73 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+
+   crs:PresetType="Normal"
+   crs:ProcessVersion="11.0"
+   crs:CameraProfile="Adobe Color"
+
+   crs:WhiteBalance="Custom"
+   crs:Temperature="5350"
+   crs:Tint="7"
+
+   crs:Exposure2012="0.35"
+   crs:Contrast2012="-25"
+   crs:Highlights2012="-60"
+   crs:Shadows2012="50"
+   crs:Whites2012="-15"
+   crs:Blacks2012="25"
+
+   crs:Texture="-15"
+   crs:Clarity2012="-20"
+   crs:Dehaze="-10"
+   crs:Vibrance="-8"
+   crs:Saturation="-6"
+
+   crs:ToneCurveName2012="Custom"
+   crs:ToneCurvePV2012="0,12 32,28 64,60 128,128 192,200 255,245"
+   crs:ToneCurvePV2012Red="0,10 255,245"
+   crs:ToneCurvePV2012Green="0,12 255,250"
+   crs:ToneCurvePV2012Blue="0,18 255,255"
+
+   crs:HueAdjustmentRed="5"
+   crs:HueAdjustmentOrange="-5"
+   crs:HueAdjustmentYellow="-25"
+   crs:HueAdjustmentGreen="-35"
+   crs:HueAdjustmentAqua="-10"
+   crs:HueAdjustmentBlue="-5"
+
+   crs:SaturationAdjustmentRed="-10"
+   crs:SaturationAdjustmentOrange="-5"
+   crs:SaturationAdjustmentYellow="-40"
+   crs:SaturationAdjustmentGreen="-50"
+   crs:SaturationAdjustmentAqua="-25"
+   crs:SaturationAdjustmentBlue="-35"
+
+   crs:LuminanceAdjustmentOrange="18"
+   crs:LuminanceAdjustmentYellow="10"
+   crs:LuminanceAdjustmentGreen="12"
+   crs:LuminanceAdjustmentBlue="-10"
+
+   crs:ColorGradeHighlightsHue="38"
+   crs:ColorGradeHighlightsSat="12"
+   crs:ColorGradeMidtonesHue="32"
+   crs:ColorGradeMidtonesSat="8"
+   crs:ColorGradeShadowsHue="210"
+   crs:ColorGradeShadowsSat="6"
+   crs:ColorGradeBalance="20"
+
+   crs:RedPrimaryHue="10"
+   crs:RedPrimarySat="-5"
+   crs:GreenPrimaryHue="-10"
+   crs:GreenPrimarySat="-10"
+   crs:BluePrimaryHue="-25"
+   crs:BluePrimarySat="-10"
+
+   crs:GrainAmount="12"
+   crs:GrainSize="25"
+   crs:GrainFrequency="50"
+
+   crs:PostCropVignetteAmount="-5"
+  />
+ </rdf:RDF>
+</x:xmpmeta>
